@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/P2W"><img src="https://api.daily.dev/devcards/c08e68002c6f4be89f6e37651a5175c0.png?r=8vj" width="400" alt="P2W's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/P2W"><img src="https://api.daily.dev/devcards/c08e68002c6f4be89f6e37651a5175c0.png?r=8vj" width="400" alt="P2W's Dev Card"/></a> -->
 <!--
 **GoodP2W/GoodP2W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
